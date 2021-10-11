@@ -1,0 +1,53 @@
+body{
+  background-color: black;
+  font-size: smaller;
+  color: rgb(39, 228, 39) 
+};
+
+header{color: rgb(204, 29, 29);}
+h1.hamid {
+  color: rgb(61, 206, 24); 
+border-style:solid
+;border-color: rgb(12, 12, 12);
+width: 450px;
+border-style:normal;
+font:normal;
+ font-style: oblique;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  div.walo  {
+    background-color: rgb(12, 36, 15);
+    height: 100px;
+    width: 200px;
+    animation-name: initial ;
+    margin-bottom: 100px; 
+    margin-top: -10px;
+    margin-left: 80px;
+    border: 3px solid #73AD21;
+    
+  ;;}
+div.hossine  { 
+background-color:rgb(12, 36, 15);
+margin-left: 50px;
+margin-right: 200px;
+margin-top: -400px ;
+  height: 100px;
+  width: 400px;
+  animation-name: initial;
+  background-size: 0px
+  ;}
+  div.mama{
+    border: 3px solid #73AD21;
+    margin-top: unset;
+    border-color: rgb(12, 36, 15);
+    border-radius: 20px;
+ 
+  }
+div.nn{    background-color: rgb(12, 36, 15);
+  height: 500px;
+  width: 450px;
+  animation-name: initial ;margin-bottom: 100px; margin-top : -300px;
+  margin-right: 200px;
+  margin-left: 600px;
+  border: 3px solid #73AD21 ;}  
